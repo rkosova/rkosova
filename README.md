@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ron</h1>
-<h3 align="center">A student with a special interest in the back-end of Machine Learning and AI and a budding one in EMbed</h3>
+<h3 align="center">A student with a special interest in the back-end of Machine Learning and AI, and a budding one in Embedded Systems</h3>
 
 - 🔭 I’m currently working on [Java KNN implementation](https://github.com/rkosova/java_knn)
 
